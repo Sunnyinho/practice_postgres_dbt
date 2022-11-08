@@ -10,4 +10,4 @@ members as (
     select * from cd.members
 )
 
-select
+select 
